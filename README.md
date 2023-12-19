@@ -1,4 +1,4 @@
-## ![tomato](https://github.com/tuskjant/pomodoro_dashboard/blob/main/images/tomato.png?raw=true) Pomodoro dashboard
+## ![tomato](https://github.com/tuskjant/pomodoro_dashboard/blob/main/images/tomate_gafasSol64.png?raw=true) Pomodoro dashboard
 
 ### About
 Another pomodoro app that includes a task log and a dashboard. 
