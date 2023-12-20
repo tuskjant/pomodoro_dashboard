@@ -8,6 +8,11 @@ get an html dashboard made with Bokeh library.
 ### Demo
 
 
+https://github.com/tuskjant/pomodoro_dashboard/assets/151870795/7f1e6513-2754-41aa-81a6-a831fd733003
+
+
+<img width="731" alt="pomodoro" src="https://github.com/tuskjant/pomodoro_dashboard/assets/151870795/569a768f-9c77-4558-b108-7088d21c9cb4">
+
 
 ### Usage
 Timer based on The Pomodoro Technique to manage time while working.
